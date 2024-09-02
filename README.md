@@ -2,6 +2,8 @@
 
 This project is a simple YouTube video downloader built using Dioxus, a framework for building user interfaces with Rust. It allows users to input a YouTube URL, select an output directory, and download the video to the specified location. The application also provides real-time feedback on the download progress.
 
+![YouTube Downloader Screenshot](https://github.com/davisuga/youtube-downloader/assets/screenshot.png)
+
 ## Features
 
 - **YouTube Video Download**: Enter a YouTube URL and download the video to a specified directory.
